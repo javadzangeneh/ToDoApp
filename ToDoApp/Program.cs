@@ -12,5 +12,3 @@ else if ( HosseinYearsOld > AliYearsOld)
 else
     Console.WriteLine("Equal");
 Console.ReadLine();
-//
-//
